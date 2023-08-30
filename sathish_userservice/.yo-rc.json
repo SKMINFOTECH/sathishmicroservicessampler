@@ -1,0 +1,12 @@
+{
+  "generator-springboot": {
+    "appName": "sathish_userservice",
+    "packageName": "me.sathish",
+    "databaseType": "postgresql",
+    "dbMigrationTool": "none",
+    "dbMigrationFormat": "yaml",
+    "features": [],
+    "buildTool": "maven",
+    "packageFolder": "me/sathish"
+  }
+}
