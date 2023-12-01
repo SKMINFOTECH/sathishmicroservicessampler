@@ -1,0 +1,12 @@
+{
+  "generator-springboot": {
+    "appName": "accountholdercommand",
+    "packageName": "me.sathish.accountholdercommand",
+    "databaseType": "postgresql",
+    "dbMigrationTool": "none",
+    "dbMigrationFormat": "sql",
+    "features": [],
+    "buildTool": "maven",
+    "packageFolder": "me/sathish/accountholdercommand"
+  }
+}
